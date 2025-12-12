@@ -1,0 +1,5 @@
+{
+  "name": "HG-KD 研究成果展示",
+  "description": "基于同配性引导知识蒸馏（HG-KD）的交通事故预测研究交互式展示页面，包含同配性诊断、框架演示与韧性推演。",
+  "requestFramePermissions": []
+}
